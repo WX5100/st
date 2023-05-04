@@ -1,3 +1,8 @@
 git clone - скачивание репозитория
+git status - чтение статуса
+git add - добавить файлы
+git add . - добавить все файлы
+cd - переход в папку
+git push - загрузить файл
+git commit - создание локальной точки
 
-https://github.com/WX5100/st.git
